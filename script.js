@@ -7,3 +7,5 @@ let fullPrice;
 let adaptive;
 alert('hello my JS');
 console.log('hello my JS');
+
+console.log('hello my lesso02');
